@@ -1,19 +1,5 @@
 {
-  "title": "Agency",
-  "version": "4.0.0-beta.2",
-  "keywords": [
-    "css",
-    "sass",
-    "html",
-    "responsive",
-    "theme",
-    "template"
-  ],
-  "license": "MIT",
-  "author": "Start Bootstrap",
-  "contributors": [
-    "David Miller (http://davidmiller.io/)"
-  ],
+  "author": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/stephanieandjameswedding2018/wedding.git"
