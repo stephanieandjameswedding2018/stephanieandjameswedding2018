@@ -1,2 +1,0 @@
-# wedding
-stephanieandjameswedding2018
